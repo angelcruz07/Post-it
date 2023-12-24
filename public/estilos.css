@@ -1,0 +1,23 @@
+.bg-navbar{ 
+  background-color: #ff0049;
+}
+.yellow{
+  background-color:  #D6CE0E;
+  width: 200px;
+  height: 200px;
+}
+.blue { 
+  background-color: #0ED6D6;
+  width: 200px;
+  height: 200px;
+}
+.green {
+  background-color: #1ED60E;
+  width: 200px;
+  height: 200px;
+}
+.orange {
+  background-color: #F56700;
+  width: 200px;
+  height: 200px;
+}
